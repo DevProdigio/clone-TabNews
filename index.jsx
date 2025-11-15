@@ -1,4 +1,4 @@
-function App() {
+function index() {
     return (
         <div>
         <h1>Tome em seu cu viado fela da pouta</h1>
@@ -8,4 +8,4 @@ function App() {
     )
 }
 
-export default index.jsx;
+export default index;
