@@ -1,11 +1,5 @@
 function home(){
-    return (
-        <div>
-        <h1>Tome em seu cu viado fela da pouta</h1>
-        <p>Espero que você pegue uma infecção fudida e morra seu verme miseravel</p>
-        <p>e tome no seu cu</p>
-    </div>
-    )
+    return <h1>Vai se fuder negro fudido</h1>
 }
 
 export default home;
